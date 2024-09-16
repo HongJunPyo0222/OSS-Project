@@ -1,2 +1,1 @@
-print("2022113548HongJunPyo")
-
+print("hello world")
